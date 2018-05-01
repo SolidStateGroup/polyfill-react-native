@@ -1,0 +1,1 @@
+A simplified fork of react-native-web, this provides pollyfills for AsyncStorage,Clipboard and NetInfo

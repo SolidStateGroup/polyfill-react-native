@@ -1,0 +1,14 @@
+{
+  "name": "pollyfill-react-native",
+  "version": "1.0.0",
+  "description": "Pollyfill react native apis to web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pollyfill"
+  ],
+  "author": "kyle-ssg",
+  "license": "MIT"
+}
