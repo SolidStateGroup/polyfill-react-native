@@ -1,10 +1,13 @@
 {
   "name": "pollyfill-react-native",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Pollyfill react native apis to web",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "deep-assign": "^2.0.0"
   },
   "keywords": [
     "pollyfill"
