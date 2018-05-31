@@ -1,5 +1,5 @@
 {
-  "name": "pollyfill-react-native",
+  "name": "polyfill-react-native",
   "version": "1.0.5",
   "description": "Pollyfill react native apis to web",
   "main": "index.js",
