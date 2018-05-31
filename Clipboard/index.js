@@ -38,6 +38,7 @@ var Clipboard = function () {
       node.textContent = text;
       node.style.position = 'absolute';
       node.style.opacity = '0';
+      node.style["white-space"] = "pre-wrap";
       body.appendChild(node);
 
       // select the text

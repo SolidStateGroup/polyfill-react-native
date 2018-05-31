@@ -1,6 +1,6 @@
 {
   "name": "pollyfill-react-native",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Pollyfill react native apis to web",
   "main": "index.js",
   "scripts": {
